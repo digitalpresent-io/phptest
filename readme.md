@@ -2,6 +2,10 @@
 
 You are building an online shop. The online shop has one user and it's cart is stored in the database. 
 
+## Running your own server
+in the console run the following line and a php server will be automagically spun up so you can work on the app locally.
+
+```php serve```
 
 ### FUNCTIONALITY TO BE IMPLEMENTED
 
